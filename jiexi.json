@@ -5,7 +5,7 @@
     {
       "name": "IPv4",
       "type": 0,
-      "url": "./lib/live.txt",
+      "url": "./js/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -24,58 +24,58 @@
 
     {
       "key": "drpy_影探",
-      "name": "🇹┃影探4k┃影视",
+      "name": "☯️┃影探4k┃影视",
       "type": 3,
       "playerType": 1,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/新探探.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/新探探.js"
     },
  
     {
       "key": "drpy_js_360影视",
-      "name": "🇹┃360官源┃秒播",
+      "name": "☯️┃360官源┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "🇹┃奇异官┃秒播",
+      "name": "☯️┃奇异官┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "🇹┃优酷官┃秒播",
+      "name": "☯️┃优酷官┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "🇹┃腾讯官┃秒播",
+      "name": "☯️┃腾讯官┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "🇹┃芒果官┃秒播",
+      "name": "☯️┃芒果官┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/百忙无果.js"
     },
     {
       "key": "drpy_js_菜狗",
-      "name": "🇹┃搜狗官┃秒播",
+      "name": "☯️┃搜狗官┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/菜狗.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/菜狗.js"
     },
     {
       "key": "黑狐",
-      "name": "🇹┃黑狐官┃秒播",
+      "name": "☯️┃黑狐官┃秒播",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -118,7 +118,7 @@
     },
     {
       "key": "T4-duanju",
-      "name": "🇹┃看短剧┃大全",
+      "name": "☯️┃看短剧┃大全",
       "type": 4,
       "api": "https://catbox.n13.club/duanju.php",
       "searchable": 1,
@@ -130,7 +130,7 @@
 
     {
       "key": "嘿嘿",
-      "name": "🇹┃嘿嘿2K┃秒播",
+      "name": "☯️┃嘿嘿2K┃秒播",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "49zy",
-      "name": "🇹┃四九2K┃秒播",
+      "name": "☯️┃四九2K┃秒播",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -185,7 +185,7 @@
     },
     {
       "key": "横版影院",
-      "name": "🇹┃横版短剧┃秒播",
+      "name": "☯️┃横版短剧┃秒播",
       "type": 1,
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
@@ -195,7 +195,7 @@
 
     {
       "key": "Czsapp",
-      "name": "🇹┃厂长2K┃秒播",
+      "name": "☯️┃厂长2K┃秒播",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -206,14 +206,14 @@
     },
     {
       "key": "drpy_js_两个BT",
-      "name": "🇹┃两个BT┃秒播",
+      "name": "☯️┃两个BT┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/两个BT.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/两个BT.js"
     },
     {
       "key": "暴風",
-      "name": "🇹┃暴风2K┃秒播",
+      "name": "☯️┃暴风2K┃秒播",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "searchable": 1,
@@ -221,24 +221,24 @@
     },
     {
       "key": "drpy_js_爱看机器人",
-      "name": "🇹┃爱看2k┃秒播",
+      "name": "☯️┃爱看2k┃秒播",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/ikanbot2.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/ikanbot2.js"
     },
     {
       "key": "csp_Nmys",
-      "name": "🇹┃农民2K┃秒播",
+      "name": "☯️┃农民2K┃秒播",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/nmys.json"
+      "ext": "./js/nmys.json"
     },
     {
       "key": "csp_Bttoo",
-      "name": "🇹┃比特2K┃秒播",
+      "name": "☯️┃比特2K┃秒播",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -247,7 +247,7 @@
     },
     {
       "key": "zxzj",
-      "name": "🇹┃外剧2K┃秒播",
+      "name": "☯️┃外剧2K┃秒播",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -257,7 +257,7 @@
     },
     {
       "key": "lurenjia",
-      "name": "🇹┃路人2K┃秒播",
+      "name": "☯️┃路人2K┃秒播",
       "type": 1,
       "api": "http://dytt996.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -267,7 +267,7 @@
     },
     {
       "key": "一起看 ",
-      "name": "🇹┃一起看┃影视",
+      "name": "☯️┃一起看┃影视",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -276,21 +276,21 @@
     },
     {
       "key": "drpy_js_米爱影视",
-      "name": "🇹┃米爱2K┃影视",
+      "name": "☯️┃米爱2K┃影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/米爱影视.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/米爱影视.js"
     },
     {
       "key": "drpy_js_胖虎影视",
-      "name": "🇹┃胖虎2K┃影视",
+      "name": "☯️┃胖虎2K┃影视",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/胖虎.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/胖虎.js"
     },
     {
       "key": "zxzj",
-      "name": "🇹┃在线2K┃直连",
+      "name": "☯️┃在线2K┃直连",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -300,7 +300,7 @@
     },
     {
       "key": "毛驴",
-      "name": "🇹┃毛驴2K┃秒播",
+      "name": "☯️┃毛驴2K┃秒播",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -310,7 +310,7 @@
     },
     {
       "key": "迪迪",
-      "name": "🇹┃迪迪2K┃直连",
+      "name": "☯️┃迪迪2K┃直连",
       "api": "csp_AppYsV2",
       "type": 3,
       "playerType": 2,
@@ -321,7 +321,7 @@
     },
     {
       "key": "索尼资源",
-      "name": "🇹┃索尼2K┃资源",
+      "name": "☯️┃索尼2K┃资源",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
@@ -364,7 +364,7 @@
     },
     {
       "key": "Lib",
-      "name": "🇹┃利播2K┃直连",
+      "name": "☯️┃利播2K┃直连",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -374,7 +374,7 @@
     },
     {
       "key": "Cokemv",
-      "name": "🇹┃可乐2K┃直连",
+      "name": "☯️┃可乐2K┃直连",
       "type": 3,
       "api": "csp_Cokemv",
       "playerType": 2,
@@ -384,7 +384,7 @@
     },
     {
       "key": "csp_SP33",
-      "name": "🇹┃三三2K┃直连",
+      "name": "☯️┃三三2K┃直连",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -395,7 +395,7 @@
   
     {
       "key": "Biliych",
-      "name": "🇹┃热门歌曲大全",
+      "name": "☯️┃热门歌曲大全",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -405,12 +405,12 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/biliych.json"
+      "ext": "./js/biliych.json"
     },
   
     {
       "key": "MV_vod",
-      "name": "🇹┃20万MV┃资源",
+      "name": "☯️┃20万MV┃资源",
       "type": 1,
       "api": "https://mv.wogg.link/mv/vod",
       "style": {
@@ -422,10 +422,10 @@
     },
     {
       "key": "酷奇js",
-      "name": "🇹┃酷奇MV┃资源",
+      "name": "☯️┃酷奇MV┃资源",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/酷奇MV.js",
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -436,7 +436,7 @@
     },
     {
       "key": "Bili",
-      "name": "🇹┃哔哩哔哩┃合集",
+      "name": "☯️┃哔哩哔哩┃合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -446,48 +446,48 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/bilibili.json"
+      "ext": "./json/bilibili.json"
     },
     {
       "key": "drpy_js_NT动漫",
-      "name": "🇹┃NT动漫┃大全",
+      "name": "☯️┃NT动漫┃大全",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/NT动漫.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/NT动漫.js"
     },
     {
       "key": "drpy_js_爱弹幕",
-      "name": "🇹┃爱弹幕┃动漫",
+      "name": "☯️┃爱弹幕┃动漫",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/爱弹幕.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/爱弹幕.js"
     },
     {
       "key": "js58",
-      "name": "🇹┃58动漫┃大全",
+      "name": "☯️┃58动漫┃大全",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "./libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/58动漫.js"
+      "ext": "./js/58动漫.js"
     },
     {
       "key": "csp_动漫巴士",
-      "name": "🇹┃爱动漫┃巴士",
+      "name": "☯️┃爱动漫┃巴士",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/动漫巴士.json"
+      "ext": "./json/动漫巴士.json"
     },
     {
       "key": "dr_兔小贝",
-      "name": "🇹┃教育区┃启蒙",
+      "name": "☯️┃教育区┃启蒙",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -498,7 +498,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "🇹┃教育区┃儿童",
+      "name": "☯️┃教育区┃儿童",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -508,11 +508,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/少儿教育.json"
+      "ext": "./json/少儿教育.json"
     },
     {
       "key": "小学课堂",
-      "name": "🇹┃教育区┃小学",
+      "name": "☯️┃教育区┃小学",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -522,11 +522,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/小学课堂.json"
+      "ext": "./json/小学课堂.json"
     },
     {
       "key": "初中课堂",
-      "name": "🇹┃教育区┃初中",
+      "name": "☯️┃教育区┃初中",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -536,11 +536,11 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/初中课堂.json"
+      "ext": "./json/初中课堂.json"
     },
     {
       "key": "高中教育",
-      "name": "🇹┃教育区┃高中",
+      "name": "☯️┃教育区┃高中",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -550,58 +550,58 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./lib/高中课堂.json"
+      "ext": "./json/高中课堂.json"
     },
     {
       "key": "影探",
-      "name": "🇹影探4K┃影院",
+      "name": "☯️影探4K┃影院",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/yt.js"
+      "api": "./libs/drpy2.min.js",
+      "ext": "./js/yt.js"
     },
     {
       "key": "YiSo",
-      "name": "🇹┃易搜4K┃搜索",
+      "name": "☯️┃易搜4K┃搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "PanSou",
-      "name": "🇹┃盘搜4K┃搜索",
+      "name": "☯️┃盘搜4K┃搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "UpYun",
-      "name": "🇹┃Up搜4K┃搜索",
+      "name": "☯️┃Up搜4K┃搜索",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "七夜",
-      "name": "🇹┃七夜4K┃搜索",
+      "name": "☯️┃七夜4K┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
     },
     {
       "key": "ext_live_protocol",
-      "name": "导航 http://tvkj.top",
+      "name": "解析慎用",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -610,7 +610,7 @@
     },
     {
       "key": "cc",
-      "name": "请勿相信视频中任何广告",
+      "name": "一个人看",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,

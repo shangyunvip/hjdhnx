@@ -63,6 +63,14 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/菜狗.js"
     },
+        {
+      "key": "影探",
+      "name": "☯️影探4K┃影院",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/yt.js"
+    },
+ 
     {
       "key": "黑狐",
       "name": "☯️┃黑狐官┃秒播",
@@ -467,14 +475,7 @@
       "changeable": 0,
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/高中课堂.json"
     },
-    {
-      "key": "影探",
-      "name": "☯️影探4K┃影院",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/yt.js"
-    },
- 
+
     {
       "key": "ext_live_protocol",
       "name": "解析慎用",

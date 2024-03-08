@@ -21,16 +21,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-
-    {
-      "key": "drpy_影探",
-      "name": "☯️┃影探4k┃影视",
-      "type": 3,
-      "playerType": 1,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/新探探.js"
-    },
- 
     {
       "key": "drpy_js_360影视",
       "name": "☯️┃360官源┃秒播",
@@ -128,18 +118,7 @@
       "ext": true
     },
 
-    {
-      "key": "嘿嘿",
-      "name": "☯️┃嘿嘿2K┃秒播",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
-    },
-    {
-      "key": "49zy",
+     {  "key": "49zy",
       "name": "☯️┃四九2K┃秒播",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
@@ -234,7 +213,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/nmys.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/nmys.json"
     },
     {
       "key": "csp_Bttoo",
@@ -255,16 +234,7 @@
       "changeable": 1,
       "ext": "https://www.zxzj.pro/"
     },
-    {
-      "key": "lurenjia",
-      "name": "☯️┃路人2K┃秒播",
-      "type": 1,
-      "api": "http://dytt996.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playUrl": "json:http://106.53.99.43:84/lzff.php?url="
-    },
+
     {
       "key": "一起看 ",
       "name": "☯️┃一起看┃影视",
@@ -274,30 +244,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "drpy_js_米爱影视",
-      "name": "☯️┃米爱2K┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/米爱影视.js"
-    },
-    {
-      "key": "drpy_js_胖虎影视",
-      "name": "☯️┃胖虎2K┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/胖虎.js"
-    },
-    {
-      "key": "zxzj",
-      "name": "☯️┃在线2K┃直连",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
+
     {
       "key": "毛驴",
       "name": "☯️┃毛驴2K┃秒播",
@@ -308,17 +255,7 @@
       "changeable": 1,
       "ext": "https://www.maolvys.com/"
     },
-    {
-      "key": "迪迪",
-      "name": "☯️┃迪迪2K┃直连",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://api123.adys.app/xgapp.php/v3/"
-    },
+
     {
       "key": "索尼资源",
       "name": "☯️┃索尼2K┃资源",
@@ -373,16 +310,6 @@
       "ext": "https://www.libvio.pro/"
     },
     {
-      "key": "Cokemv",
-      "name": "☯️┃可乐2K┃直连",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_SP33",
       "name": "☯️┃三三2K┃直连",
       "type": 3,
@@ -405,21 +332,9 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/biliych.json"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/biliych.json"
     },
-  
-    {
-      "key": "MV_vod",
-      "name": "☯️┃20万MV┃资源",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
     {
       "key": "酷奇js",
       "name": "☯️┃酷奇MV┃资源",

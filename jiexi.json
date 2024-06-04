@@ -1,11 +1,11 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/spider.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "lives": [
     {
       "name": "IPv4",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/txt/lives/live.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/txt/lives/live.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -25,50 +25,50 @@
       "key": "drpy_js_360影视",
       "name": "☯️┃360官源┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/360影视.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
       "name": "☯️┃奇异官┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/奇珍异兽.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "☯️┃优酷官┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/优酷.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "☯️┃腾讯官┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/腾云驾雾.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "☯️┃芒果官┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/百忙无果.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/百忙无果.js"
     },
     {
       "key": "drpy_js_菜狗",
       "name": "☯️┃搜狗官┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/菜狗.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/菜狗.js"
     },
         {
       "key": "影探",
       "name": "☯️影探4K┃影院",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/yt.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/yt.js"
     },
  
     {
@@ -195,8 +195,8 @@
       "key": "drpy_js_两个BT",
       "name": "☯️┃两个BT┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/两个BT.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/两个BT.js"
     },
     {
       "key": "暴風",
@@ -210,8 +210,8 @@
       "key": "drpy_js_爱看机器人",
       "name": "☯️┃爱看2k┃秒播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/ikanbot2.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/ikanbot2.js"
     },
     {
       "key": "csp_Nmys",
@@ -221,7 +221,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/nmys.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/nmys.json"
     },
     {
       "key": "csp_Bttoo",
@@ -340,15 +340,15 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/biliych.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/biliych.json"
     },
 
     {
       "key": "酷奇js",
       "name": "☯️┃酷奇MV┃资源",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/酷奇MV.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -369,31 +369,31 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/bilibili.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/bilibili.json"
     },
     {
       "key": "drpy_js_NT动漫",
       "name": "☯️┃NT动漫┃大全",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/NT动漫.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/NT动漫.js"
     },
     {
       "key": "drpy_js_爱弹幕",
       "name": "☯️┃爱弹幕┃动漫",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/爱弹幕.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/爱弹幕.js"
     },
     {
       "key": "js58",
       "name": "☯️┃58动漫┃大全",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/58动漫.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/58动漫.js"
     },
     {
       "key": "csp_动漫巴士",
@@ -403,14 +403,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/动漫巴士.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/动漫巴士.json"
     },
     {
       "key": "dr_兔小贝",
       "name": "☯️┃教育区┃启蒙",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/兔小贝.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/js/兔小贝.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -431,7 +431,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/少儿教育.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -445,7 +445,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/小学课堂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -459,7 +459,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/初中课堂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -473,7 +473,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/高中课堂.json"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/shangyunvip/hjdhnx/main/json/高中课堂.json"
     },
 
     {
